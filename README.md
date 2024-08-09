@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="assets/everforest-icon.png" width="130" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Everforest for <a href="https://github.com/Microsoft/Terminal">Windows Terminal</a>
+	Everforest for <a href="https://github.com/fish-shell/fish-shell">fish-shell</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
